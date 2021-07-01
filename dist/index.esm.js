@@ -2212,7 +2212,7 @@ var socials = [
         items: [
             {
                 label: "English",
-                href: "https://t.me/honestworkfarms",
+                href: "https://t.me/polyracoon",
             },
          
             
@@ -2221,7 +2221,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://t.me/honestworkfarms",
+        href: "https://t.me/polyracoon",
     },
 ];
 var MENU_HEIGHT = 64;
