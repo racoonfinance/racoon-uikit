@@ -2221,7 +2221,7 @@ var socials = [
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://t.me/polyracoon",
+        href: "https://twitter.com/polyracoon",
     },
 ];
 var MENU_HEIGHT = 64;
